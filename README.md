@@ -3,11 +3,39 @@ Design files of microwave passive devices used in my researches and projects.
 
 **Designed and simulated by [CST - Computer Simulation Technology](https://www.cst.com/)**
 
+- [14.5 mm x 9.525 mm Waveguide Segment](#1459525-Waveguide-Segment)
+- [14.5 mm x 9.525 mm Waveguide Power Divider](#1459525-Waveguide-Power-Divider)
 - [Microstrip Wilkinson Power Divider](#Microstrip-Wilkinson-Power-Divider)
 - [Microstrip Turn](#Microstrip-Turn)
 - [Microstrip Hybrid Coupler](#Microstrip-Hybrid-Coupler)
 - [Microstrip Matching Stub](#Microstrip-Matching-Stub)
 - [Microstrip Ground Stub](#Microstrip-Ground-Stub)
+
+<a name="1459525-Waveguide-Segment"/>
+## ★ 14.5 mm x 9.525 mm Waveguide Segment</a>
+
+### 14.5 mm x 9.525 mm Straight Waveguide Segment
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideSegment_11-15G.png" width="500">
+
+WaveguideSegment_11-15G.cst
+
+### 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Short Side
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideTurn_ShortSide_11-15G.png" width="500">
+
+WaveguideTurn_ShortSide_11-15G.cst
+
+### 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Long Side
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideTurn_LongSide_11-15G.png" width="500">
+
+WaveguideTurn_LongSide_11-15G.cst
+
+<a name="1459525-Waveguide-Power-Divider"/>
+## ★ 14.5 mm x 9.525 mm Waveguide Power Divider</a>
+
+### 14.5 mm x 9.525 mm 11-15 GHz Wideband Waveguide Power Divider
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguidePowerDivider_11-15G.png" width="500">
+
+WaveguidePowerDivider_11-15G.cst
 
 <a name="Microstrip-Wilkinson-Power-Divider"/>
 ## ★ Microstrip Wilkinson Power Divider</a>
