@@ -15,7 +15,7 @@ Design files of microwave passive devices used in my researches and projects.
 ## ★ 14.5 mm x 9.525 mm Waveguide Segment</a>
 
 ### 14.5 mm x 9.525 mm Straight Waveguide Segment
-<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideSegment_11-15G.png" width="500">
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideSegment_11-15G.png" width="300">
 
 WaveguideSegment_11-15G.cst
 
