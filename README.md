@@ -25,7 +25,7 @@ WaveguideSegment_11-15G.cst
 WaveguideTurn_ShortSide_11-15G.cst
 
 ### 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Long Side
-<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideTurn_LongSide_11-15G.png" width="500">
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/WaveguideTurn_LongSide_11-15G.png" width="300">
 
 WaveguideTurn_LongSide_11-15G.cst
 
