@@ -3,6 +3,7 @@ Design files of microwave passive devices used in my researches and projects.
 
 **Designed and simulated by [CST - Computer Simulation Technology](https://www.cst.com/)**
 
+- [Substrate Integrated Waveguide](#Substrate-Integrated-Waveguide)
 - [14.5 mm x 9.525 mm Waveguide Segment](#1459525-Waveguide-Segment)
 - [14.5 mm x 9.525 mm Waveguide Power Divider](#1459525-Waveguide-Power-Divider)
 - [Microstrip Wilkinson Power Divider](#Microstrip-Wilkinson-Power-Divider)
@@ -10,6 +11,14 @@ Design files of microwave passive devices used in my researches and projects.
 - [Microstrip Hybrid Coupler](#Microstrip-Hybrid-Coupler)
 - [Microstrip Matching Stub](#Microstrip-Matching-Stub)
 - [Microstrip Ground Stub](#Microstrip-Ground-Stub)
+
+<a name="Substrate-Integrated-Waveguide"/>
+## ★ Substrate Integrated Waveguide</a>
+
+### K-Band Substrate Integrated Waveguide
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/KBand_SIW.jpg" width="300">
+
+SIW_KBand.cst
 
 <a name="1459525-Waveguide-Segment"/>
 ## ★ 14.5 mm x 9.525 mm Waveguide Segment</a>
