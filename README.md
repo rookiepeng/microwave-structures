@@ -27,7 +27,7 @@ Design files of microwave passive devices used in my researches and projects.
 #### K-Band Substrate Integrated Waveguide on 0.01" Rogers RO3003
 *(Substrate Integrated Waveguide/SIW/SIW_RO3003_KBand.cst)*
 
-<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/SIW_RO3003_KBand.png" width="300">
+<img src="https://rookiepeng.github.io/Microwave-Passive-Design/img/SIW_RO3003_KBand.png" width="500">
 
 <a name="MLIN"/>
 
