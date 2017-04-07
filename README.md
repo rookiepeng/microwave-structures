@@ -5,7 +5,7 @@ Design files of microwave passive devices used in my researches and projects.
 
 - [Substrate Integrated Waveguide (SIW)](#SIW)
     - [SIW Segment](#SIW_Segment)
-    - [SIW Power Splitter](*SIW-Power-Splitter)
+    - [SIW Power Splitter](#SIW-Power-Splitter)
 - [Microstrip](#MLIN)
     - [Microstrip Wilkinson Power Divider](#Microstrip-Wilkinson-Power-Divider)
     - [Microstrip Turn](#Microstrip-Turn)
