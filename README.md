@@ -167,9 +167,9 @@ Design files of microwave structures used in my researches and projects.
 ### Microstrip Ground Stub</a>
 
 - Design: 24 GHz DC Ground Stub
-- Material: 0.01" Rogers RO3006
-- File: `Microstrip/Ground/Rogers RO3006/DCGround_RO3006_24G.cst`
-- Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_RO3006_24G.svg" width="300">
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Ground/Rogers RO3006/DCGround_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_RO3006_24G.svg" width="300">
 
 - Design: 24 GHz DC Ground Stub
   - Material: 0.01" Rogers RT/duroid 5880
