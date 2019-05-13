@@ -24,6 +24,8 @@ Design files of microwave structures used in my researches and projects.
     - [CPW to SIW](#CPW2SIW)
     - [Microstrip to SIW](#MLIN2SIW)
 
+---
+
 <a name="SIW"/>
 
 ## ★ Substrate Integrated Waveguide (SIW)</a>
@@ -32,19 +34,19 @@ Design files of microwave structures used in my researches and projects.
 
 ### SIW Segment</a>
 
-#### K-Band Substrate Integrated Waveguide on 0.01" Rogers RO3003
-*(Substrate Integrated Waveguide/SIW/Rogers RO3003/SIW_RO3003_KBand.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/SIW_RO3003_KBand.png" width="300">
+- Design: K-Band Substrate Integrated Waveguide
+  - Material: 0.01" Rogers RO3003
+  - File: `Substrate Integrated Waveguide/SIW/Rogers RO3003/SIW_RO3003_KBand.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/SIW_RO3003_KBand.png" width="300">
 
 <a name="SIW-Power-Splitter"/>
 
 ### SIW Power Splitter</a>
 
-#### K-Band SIW Power Splitter on 0.01" Rogers RO3003
-*(Substrate Integrated Waveguide/Power Splitter/Rogers RO3003/SIW_Spiliter_RO3003_KBand.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/SIW_Spiliter_RO3003_KBand.png" width="300">
+- Design: K-Band SIW Power Splitter
+  - Material: 0.01" Rogers RO3003
+  - File: `Substrate Integrated Waveguide/Power Splitter/Rogers RO3003/SIW_Spiliter_RO3003_KBand.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/SIW_Spiliter_RO3003_KBand.png" width="300">
 
 <a name="CPW"/>
 
@@ -54,19 +56,19 @@ Design files of microwave structures used in my researches and projects.
 
 ### CPW Segment</a>
 
-#### K-Band Coplanar Waveguide on 0.01" Rogers RO3003
-*(Coplanar Waveguide/CPW/Rogers RO3003/CPW_RO3003_KBand.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/CPW_RO3003_KBand.png" width="300">
+- Design: K-Band Coplanar Waveguide
+  - Material: 0.01" Rogers RO3003
+  - File: `Coplanar Waveguide/CPW/Rogers RO3003/CPW_RO3003_KBand.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/CPW_RO3003_KBand.png" width="300">
 
 <a name="CPW-Ground-Stub"/>
 
 ### CPW Ground Stub</a>
 
-#### 24 GHz CPW DC Ground Stub on 0.01" Rogers RO3003
-*(Coplanar Waveguide/Ground/Rogers RO3003/DCGround_CPW_RO3003_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_CPW_RO3003_24G.png" width="300">
+- Design: 24 GHz CPW DC Ground Stub
+  - Material: 0.01" Rogers RO3003
+  - File: `Coplanar Waveguide/Ground/Rogers RO3003/DCGround_CPW_RO3003_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_CPW_RO3003_24G.png" width="300">
 
 <a name="MLIN"/>
 
@@ -76,39 +78,39 @@ Design files of microwave structures used in my researches and projects.
 
 ### Microstrip Wilkinson Power Divider</a>
 
-#### 24 GHz Microstrip Wilkinson Power Divider with 45-Degree Turns on 0.01" Rogers RO3006
-*(Microstrip/Wilkinson/Rogers RO3006/Wilkinson45Degree_RO3006_24G.cst)*
+- Design: 24 GHz Microstrip Wilkinson Power Divider with 45-Degree Turns
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Wilkinson/Rogers RO3006/Wilkinson45Degree_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/Wilkinson45Degree_RO3006_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/Wilkinson45Degree_RO3006_24G.svg" width="300">
-
-#### 24 GHz Microstrip Wilkinson Power Divider with 90-Degree Turns on 0.01" Rogers RO3006
-*(Microstrip/Wilkinson/Rogers RO3006/Wilkinson90Degree_RO3006_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/Wilkinson90Degree_RO3006_24G.svg" width="300">
+- Design: 24 GHz Microstrip Wilkinson Power Divider with 90-Degree Turns
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Wilkinson/Rogers RO3006/Wilkinson90Degree_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/Wilkinson90Degree_RO3006_24G.svg" width="300">
 
 <a name="Microstrip-Turn"/>
 
 ### Microstrip Turn</a>
 
-#### 24 GHz 45-Degree Microstrip Turn on 0.01" Rogers RO3006
-*(Microstrip/Turns/Rogers RO3006/45DegreeTurn_RO3006_24G.cst)*
+- Design: 24 GHz 45-Degree Microstrip Turn
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Turns/Rogers RO3006/45DegreeTurn_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/45DegreeTurn_RO3006_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/45DegreeTurn_RO3006_24G.svg" width="300">
+- Design: 24 GHz 90-Degree Microstrip Turn
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Turns/Rogers RO3006/90DegreeTurn_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurn_RO3006_24G.svg" width="300">
 
-#### 24 GHz 90-Degree Microstrip Turn on 0.01" Rogers RO3006
-*(Microstrip/Turns/Rogers RO3006/90DegreeTurn_RO3006_24G.cst)*
+- Design: 24 GHz 90-Degree x2 Microstrip Turn
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Turns/Rogers RO3006/90DegreeTurnx2_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurnx2_RO3006_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurn_RO3006_24G.svg" width="300">
-
-#### 24 GHz 90-Degree x2 Microstrip Turn on 0.01" Rogers RO3006
-*(Microstrip/Turns/Rogers RO3006/90DegreeTurnx2_RO3006_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurnx2_RO3006_24G.svg" width="300">
-
-#### 24 GHz 90-Degree x4 Microstrip Turn on 0.01" Rogers RO3006
-*(Microstrip/Turns/Rogers RO3006/90DegreeTurnx4_RO3006_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurnx4_RO3006_24G.svg" width="300">
+- Design: 24 GHz 90-Degree x4 Microstrip Turn
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Turns/Rogers RO3006/90DegreeTurnx4_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurnx4_RO3006_24G.svg" width="300">
 
 #### 24 GHz 45-Degree Microstrip Turn on 0.01" Rogers RT/duroid 5880
 *(Microstrip/Turns/Rogers RTduroid 5880/45DegreeTurn_RT5880_24G.cst)*
