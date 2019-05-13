@@ -112,67 +112,67 @@ Design files of microwave structures used in my researches and projects.
   - File: `Microstrip/Turns/Rogers RO3006/90DegreeTurnx4_RO3006_24G.cst`
   - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90DegreeTurnx4_RO3006_24G.svg" width="300">
 
-#### 24 GHz 45-Degree Microstrip Turn on 0.01" Rogers RT/duroid 5880
-*(Microstrip/Turns/Rogers RTduroid 5880/45DegreeTurn_RT5880_24G.cst)*
+- Design: 24 GHz 45-Degree Microstrip Turn
+  - Material: 0.01" Rogers RT/duroid 5880
+  - File: `Microstrip/Turns/Rogers RTduroid 5880/45DegreeTurn_RT5880_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/45DegreeTurn_RT5880_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/45DegreeTurn_RT5880_24G.svg" width="300">
-
-#### 24 GHz 75-Degree Microstrip Turn on 0.01" Rogers RT/duroid 5880
-*(Microstrip/Turns/Rogers RTduroid 5880/75DegreeTurn_RT5880_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/75DegreeTurn_RT5880_24G.svg" width="300">
+- Design: 24 GHz 75-Degree Microstrip Turn
+  - Material: 0.01" Rogers RT/duroid 5880
+  - File: `Microstrip/Turns/Rogers RTduroid 5880/75DegreeTurn_RT5880_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/75DegreeTurn_RT5880_24G.svg" width="300">
 
 <a name="Microstrip-Hybrid-Coupler"/>
 
 ### Microstrip Hybrid Coupler</a>
 
-#### 24 GHz 90-Degree Hybrid Coupler on 0.01" Rogers RO3006
-*(Microstrip/Coupler/Rogers RO3006/90Hybrid_RO3006_24G.cst)*
+- Design: 24 GHz 90-Degree Hybrid Coupler
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Coupler/Rogers RO3006/90Hybrid_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90Hybrid_RO3006_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/90Hybrid_RO3006_24G.svg" width="300">
+- Design: 24 GHz 90-Degree Hybrid Coupler
+  - Material: 0.032" Rogers RO4350
+  - File: `Microstrip/Coupler/Rogers RO4350B/90Hybrid_RO4350_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90Hybrid_RO4350_24G.svg" width="300">
 
-#### 24 GHz 90-Degree Hybrid Coupler on 0.032" Rogers RO4350
-*(Microstrip/Coupler/Rogers RO4350B/90Hybrid_RO4350_24G.cst)*
+- Design: 24 GHz 90-Degree Hybrid Coupler
+  - Material: 0.01" Rogers RT/duroid 5880
+  - File: `Microstrip/Coupler/Rogers RTduroid 5880/90Hybrid_RT5880_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/90Hybrid_RT5880_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/90Hybrid_RO4350_24G.svg" width="300">
-
-#### 24 GHz 90-Degree Hybrid Coupler on 0.01" Rogers RT/duroid 5880
-*(Microstrip/Coupler/Rogers RTduroid 5880/90Hybrid_RT5880_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/90Hybrid_RT5880_24G.svg" width="300">
-
-#### 24 GHz Rat-Race Coupler on 0.01" Rogers RT/duroid 5880
-*(Microstrip/Coupler/Rogers RTduroid 5880/RatRace_RT5880_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/RatRace_RT5880_24G.svg" width="300">
+- Design: 24 GHz Rat-Race Coupler
+  - Material: 0.01" Rogers RT/duroid 5880
+  - File: `Microstrip/Coupler/Rogers RTduroid 5880/RatRace_RT5880_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/RatRace_RT5880_24G.svg" width="300">
 
 <a name="Microstrip-Matching-Stub"/>
 
 ### Microstrip Matching Stub</a>
 
-#### 24 GHz 50 Ohm Matching Stub on 0.01" Rogers RO3006
-*(Microstrip/Matching/Rogers RO3006/Match_RO3006_24G.cst)*
+- Design: 24 GHz 50 Ohm Matching Stub
+  - Material: 0.01" Rogers RO3006
+  - File: `Microstrip/Matching/Rogers RO3006/Match_RO3006_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/Match_RO3006_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/Match_RO3006_24G.svg" width="300">
-
-#### 24 GHz 50 Ohm Matching Stub on 0.01" Rogers RT/duroid 5880
-*(Microstrip/Matching/Rogers RTduroid 5880/Match_RT5880_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/Match_RT5880_24G.svg" width="300">
+- Design: 24 GHz 50 Ohm Matching Stub
+  - Material: 0.01" Rogers RT/duroid 5880
+  - File: `Microstrip/Matching/Rogers RTduroid 5880/Match_RT5880_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/Match_RT5880_24G.svg" width="300">
 
 <a name="Microstrip-Ground-Stub"/>
 
 ### Microstrip Ground Stub</a>
 
-#### 24 GHz DC Ground Stub on 0.01" Rogers RO3006
-*(Microstrip/Ground/Rogers RO3006/DCGround_RO3006_24G.cst)*
+- Design: 24 GHz DC Ground Stub
+- Material: 0.01" Rogers RO3006
+- File: `Microstrip/Ground/Rogers RO3006/DCGround_RO3006_24G.cst`
+- Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_RO3006_24G.svg" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_RO3006_24G.svg" width="300">
-
-#### 24 GHz DC Ground Stub on 0.01" Rogers RT/duroid 5880
-*(Microstrip/Ground/Rogers RTduroid 5880/DCGround_RT5880_24G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_RT5880_24G.svg" width="300">
+- Design: 24 GHz DC Ground Stub
+  - Material: 0.01" Rogers RT/duroid 5880
+  - File: `Microstrip/Ground/Rogers RTduroid 5880/DCGround_RT5880_24G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/DCGround_RT5880_24G.svg" width="300">
 
 <a name="Waveguide"/>
 
@@ -182,33 +182,33 @@ Design files of microwave structures used in my researches and projects.
 
 ### Waveguide Segment</a>
 
-#### 14.5 mm x 9.525 mm Straight Waveguide Segment
-*(Waveguide/Waveguide/WaveguideSegment_11-15G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/WaveguideSegment_11-15G.png" width="300">
+- Design: 14.5 mm x 9.525 mm Straight Waveguide Segment
+  - Material: PEC and air
+  - File: Waveguide/Waveguide/WaveguideSegment_11-15G.cst
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/WaveguideSegment_11-15G.png" width="300">
 
 <a name="Waveguide-Turn"/>
 
 ### Waveguide Turn</a>
 
-#### 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Short Side
-*(Waveguide/Turn/WaveguideTurn_ShortSide_11-15G.cst)*
+- Design: 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Short Side
+  - Material: PEC and air
+  - File: `Waveguide/Turn/WaveguideTurn_ShortSide_11-15G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/WaveguideTurn_ShortSide_11-15G.png" width="300">
 
-<img src="https://rookiepeng.github.io/microwave-structures/img/WaveguideTurn_ShortSide_11-15G.png" width="300">
-
-#### 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Long Side
-*(Waveguide/Turn/WaveguideTurn_LongSide_11-15G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/WaveguideTurn_LongSide_11-15G.png" width="300">
+- Design: 14.5 mm x 9.525 mm 90-Degree Waveguide Turn on Long Side
+  - Material: PEC and air
+  - File: `Waveguide/Turn/WaveguideTurn_LongSide_11-15G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/WaveguideTurn_LongSide_11-15G.png" width="300">
 
 <a name="Waveguide-Power-Divider"/>
 
 ### Waveguide Power Divider</a>
 
-#### 14.5 mm x 9.525 mm 11-15 GHz Wideband Waveguide Power Divider
-*(Waveguide/Splitter/WaveguidePowerDivider_11-15G.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/WaveguidePowerDivider_11-15G.png" width="300">
+- Design: 14.5 mm x 9.525 mm 11-15 GHz Wideband Waveguide Power Divider
+  - Material: PEC and air
+  - File: `Waveguide/Splitter/WaveguidePowerDivider_11-15G.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/WaveguidePowerDivider_11-15G.png" width="300">
 
 
 <a name="Transition"/>
@@ -219,26 +219,26 @@ Design files of microwave structures used in my researches and projects.
 
 ### CPW to Microstrip</a>
 
-#### CPW to Microstrip on 0.01" Rogers RO3003
-*(Transition/Rogers RO3003/CPW2MLIN_RO3003_KBand.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/CPW2MLIN_RO3003_KBand.png" width="300">
+- Design: CPW to Microstrip
+  - Material: 0.01" Rogers RO3003
+  - File: `Transition/Rogers RO3003/CPW2MLIN_RO3003_KBand.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/CPW2MLIN_RO3003_KBand.png" width="300">
 
 <a name="CPW2SIW"/>
 
 ### CPW to SIW</a>
 
-#### CPW to SIW on 0.01" Rogers RO3003
-*(Transition/Rogers RO3003/CPW2SIW_RO3003_KBand.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/CPW2SIW_RO3003_KBand.png" width="300">
+- Design: CPW to SIW
+  - Material: 0.01" Rogers RO3003
+  - File: `Transition/Rogers RO3003/CPW2SIW_RO3003_KBand.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/CPW2SIW_RO3003_KBand.png" width="300">
 
 <a name="MLIN2SIW"/>
 
 ### Microstrip to SIW</a>
 
-#### Microstrip to SIW on 0.01" Rogers RO4350B
-*(Transition/Rogers RO4350B/MLIN2SIW_RO4350B_KBand.cst)*
-
-<img src="https://rookiepeng.github.io/microwave-structures/img/MLIN2SIW_RO4350B_KBand.png" width="300">
+- Design: Microstrip to SIW on 
+  - Material: 0.01" Rogers RO4350B
+  - File: `Transition/Rogers RO4350B/MLIN2SIW_RO4350B_KBand.cst`
+  - Figure: <img src="https://rookiepeng.github.io/microwave-structures/img/MLIN2SIW_RO4350B_KBand.png" width="300">
 
